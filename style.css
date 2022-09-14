@@ -1,0 +1,27 @@
+body {
+    background-color: cyan;
+    margin: auto;
+  }
+  h1{
+	font-size: 42px;
+    color: black;
+    font-weight: 800;
+    line-height: 30px;
+    font-family: 'PT Serif', serif;
+  }
+  p {
+    color:black(37, 38, 94, 0.87) ;
+      font-size: 15px;
+      font-weight:  600;
+      line-height: 24px;
+      margin: auto 16px;
+      font-style: normal;
+      font-family: fantasy;
+  }
+  .register{
+    background-color: #ffffe0;
+	width: 825px;
+    margin: 47px auto;
+    padding: 44px;
+    box-shadow: 0px 1px 13px 0px #c1c1c1;
+}
